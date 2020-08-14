@@ -1,0 +1,47 @@
+#contents{
+	font-size: 20px;
+}
+#subtitle{
+	text-align: center;
+}
+.container-fluid{
+	padding: 1%;
+	margin-top:2%;
+	margin-right: 2%;
+	margin-left: 2%;
+    clear:both;
+}
+.container{
+	width:100%;
+}
+
+
+.navbar-brand h1{
+	padding-bottom: 5px;
+	font-size: 1.8em;
+	margin-top:0px;
+}
+#bodycontainer{
+	background-color:#ccd9ff;
+}
+#header-nav{
+	background-color: #00cccc;
+	border-radius: 0;
+	border:0;
+}
+
+#nav-list{
+	background:  #e6ffff;
+	width:100%;
+	margin:0px;
+}
+#subtitle{
+  font-size: 20px;
+}
+.icon-bar{
+	width:100%;
+}
+#collapsable-nav{
+	padding-left: 0px;
+	padding-right:0px;
+}
